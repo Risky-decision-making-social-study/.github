@@ -1,6 +1,6 @@
 ![header](img/header.jpg)
 
-# Research apparatus metapaper for: "How does social context modulate risky decision-making in long-tailed macaques (Macaca fascicularis)? A research report on problematic issues with a repeated sampling from experience paradigm"
+# Research Apparatus Hardware Metapaper for: "How does social context modulate risky decision-making in long-tailed macaques (Macaca fascicularis)? A research report on problematic issues with a repeated sampling from experience paradigm"
 
 by
 Louis Frank<sup>1</sup> ([ORCID 0009-0000-2426-5941](https://orcid.org/0009-0000-2426-5941)),
