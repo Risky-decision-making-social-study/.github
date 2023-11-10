@@ -1,33 +1,35 @@
 ![header](img/header.jpg)
 
-# How does social context modulate risky decision-making in long-tailed macaques (Macaca fascicularis)? A research report on problematic issues with a repeated sampling from experience paradigm
+# Research apparatus metapaper for: "How does social context modulate risky decision-making in long-tailed macaques (Macaca fascicularis)? A research report on problematic issues with a repeated sampling from experience paradigm"
 
 by
-Carina Bruchmann<sup>\* 1, 3</sup>, Judit Stolla<sup>\* 1, 3</sup>,
-Rowan Titchener<sup>\* 1, 3</sup> ([ORCID 0000-0001-5603-5614](https://orcid.org/0000-0001-5603-5614)),
+Louis Frank<sup>1</sup> ([ORCID 0009-0000-2426-5941](https://orcid.org/0009-0000-2426-5941)),
+Rowan Titchener<sup> 1, 3</sup> ([ORCID 0000-0001-5603-5614](https://orcid.org/0000-0001-5603-5614)),
 Julia Fischer<sup>1, 3, 4</sup> ([ORCID 0000-0002-5807-0074](https://orcid.org/0000-0002-5807-0074)),
 Stefanie Keupp<sup>1, 2, 3</sup> ([ORCID 0000-0002-5451-4256](https://orcid.org/0000-0002-5451-4256))
-
-\* The first three authors share the first authorship. The first authors are listed in alphabetical order here but can prioritize their names when adding this research report to their list of non-peer-reviewed publications.
 
 1. Cognitive Ethology Laboratory, Deutsches Primatenzentrum GmbH, Kellnerweg 4, 37073 Göttingen, Germany
 2. Institute of Psychology, University of Göttingen, Waldweg 26, 37073 Göttingen, Germany
 3. Department of Primate Cognition, University of Göttingen, Germany
 4. Leibniz ScienceCampus Primate Cognition, Göttingen, Germany
 
-Corresponding author: Stefanie Keupp (skeupp@dpz.eu)
+Corresponding author: Louis Frank (lfrank@dpz.eu)
+
+| :warning: WARNING                                                                                                                                             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| This organization contains repositories linked to a publication, that is currently being prepared. The official publication date has not yet been determined. |
+
 
 #### Author contributions (according to CRediT):
 
-CB: Investigation, Formal analysis, Writing – review & editing  
-JS: Investigation, Formal analysis, Writing – review & editing  
-RT: Conceptualization, Methodology, Formal analysis, Project administration, Writing – review & editing  
+LF: Research and development, Manufactoring, Testing, Writing – original draft, Writing – review & editing  
+RT: Conceptualization, Methodology, Project administration, Writing – review & editing  
 JF: Conceptualization, Funding acquisition, Writing – review & editing  
-SK: Conceptualization, Methodology, Formal analysis, Project administration, Supervision, Writing – original draft, Writing – review & editing
+SK: Conceptualization, Methodology, Project administration, Supervision, Writing – review & editing  
 
 ## Description
 
-This study compared the risk preferences of long-tailed macaques in a social and a nonsocial condition.
+A research apparatus developed for a study to compare the risk preferences of long-tailed macaques in a social and a nonsocial condition.
 
 ![apparatus](img/apparatus.png)
 
@@ -35,26 +37,11 @@ This study compared the risk preferences of long-tailed macaques in a social and
 
 ## Links
 
-Preprint: <https://osf.io/uh6mk/>
+Related publication preprint: <https://osf.io/uh6mk/>
 
 ## Abstract
 
-We compared the risk preferences of long-tailed macaques (Macaca fascicularis) in a social and a
-nonsocial condition, where we assessed their preference for a safe or a risky option after repeated
-information sampling. To this end, we devised a food dispenser that could run automatically or involve
-a human distributor. Only two of the initial set of ten monkeys reached the final test conditions; these
-two monkeys did not prefer a particular option in any of the conditions. In light of the unexpected
-difficulties that the monkeys had in learning the reward contingencies, we discuss a potential problem
-with paradigms that involve extracting statistical information from repeated sampling events. Given
-that such a paradigm has been used repeatedly and is still being used with different animals, we feel
-the field might benefit from a critical discussion of how to increase the validity of the data generated
-by this paradigm. We suggest that it is crucial to obtain a good estimate of the amount of sampling
-information a particular study population needs for optimal decision-making before any test
-conditions are run. We would have benefited greatly from the availability of more detailed reporting
-of similar difficulties in other populations, for example, information regarding timeframe and
-necessary amount of information on sampling events or previous failures with specific presentation
-formats. We hope this report can serve as a source of information for others working on this or related
-topics.
+We wanted to conducted an experiment to compare the risk preferences of long-tailed macaques (Macaca fascicularis) in two different conditions: social and nonsocial. We evaluated their preference for a safe or a risky option after repeated information sampling. To conduct this experiment, we designed a food dispenser that could either run automatically or involve a human distributor and needed to distribute different amounts or qualities of food reward.
 
 ## Manuscript
 
