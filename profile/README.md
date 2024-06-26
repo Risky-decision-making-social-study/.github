@@ -1,4 +1,4 @@
-![header](img/header.jpg)
+![header](../img/header.jpg)
 
 # Research Apparatus Hardware Metapaper for: "How does social context modulate risky decision-making in long-tailed macaques (Macaca fascicularis)? A research report on problematic issues with a repeated sampling from experience paradigm"
 
@@ -31,7 +31,7 @@ SK: Conceptualization, Methodology, Project administration, Supervision, Writing
 
 A research apparatus developed for a study to compare the risk preferences of long-tailed macaques in a social and a nonsocial condition.
 
-![apparatus](img/apparatus.png)
+![apparatus](../img/apparatus.png)
 
 *One apparatus with cage*
 
@@ -64,7 +64,7 @@ See the `README.md` file in the repository for a full description.
 
 You can download a copy of all the files in the repositories by cloning them using [git](https://git-scm.com/) or as a zip file under the "Code" button:
 
-![code-git](img/code-git.png)
+![code-git](../img/code-git.png)
 
 A copy of the repositories is also archived at *insert DOI here*
 
